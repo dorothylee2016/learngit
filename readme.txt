@@ -1,1 +1,3 @@
 hello
+hi
+Creating a new branch is quick. 
